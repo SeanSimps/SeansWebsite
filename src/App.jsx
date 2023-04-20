@@ -14,11 +14,7 @@ const App = () => {
         <About />
         {/* <TypeWrite /> */}
         <Experience />
-        <div className="container mx-auto py-10 flex justify-end">
-          <div className="w-full max-w-screen-lg">
-            <Tech />
-          </div>
-        </div>
+        <Tech />          
         <Works />
         {/* <Feedbacks /> */}
         <div className='relative z-0'>
