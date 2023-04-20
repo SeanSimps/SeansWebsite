@@ -45,7 +45,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As a skilled software developersasd, I have many years of experience in back-end development, with a focus on website development in React and WordPress, SQL Reporting, PowerBI, Crystal Reports, and ERP Systems. My expertise allows me to create efficient, scalable, and user-friendly solutions that solve real-world problems. I pride myself on collaborating closely with clients to ensure their needs are met and their ideas are brought to life. Additionally, I am a quick learner and passionate about staying up-to-date with the latest technologies and industry trends!
+        As a skilled software developersas, I have many years of experience in back-end development, with a focus on website development in React and WordPress, SQL Reporting, PowerBI, Crystal Reports, and ERP Systems. My expertise allows me to create efficient, scalable, and user-friendly solutions that solve real-world problems. I pride myself on collaborating closely with clients to ensure their needs are met and their ideas are brought to life. Additionally, I am a quick learner and passionate about staying up-to-date with the latest technologies and industry trends!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
