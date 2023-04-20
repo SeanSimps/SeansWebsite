@@ -9,6 +9,7 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import SSRS from "./tech/SSRS.png";
+import WordPress from "./tech/Wordpress.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -47,6 +48,7 @@ export {
   close,
   css,
   SSRS,
+  WordPress,
   figma,
   git,
   html,

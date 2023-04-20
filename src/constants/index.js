@@ -15,6 +15,7 @@ import {
     git,
     figma,
     SSRS,
+    WordPress,
     meta,
     starbucks,
     tesla,
@@ -115,6 +116,10 @@ import {
     {
       name: "SSRS",
       icon: SSRS,
+    },
+    {
+      name: "WordPress",
+      icon: WordPress,
     },
   ];
   
